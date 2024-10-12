@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abboah
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning flutter
+- 👀 I’m a mobile app developer
+- 🌱 I’m currently using the flutter framework
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 Reach me on festusabboah10@gmail.com
 
